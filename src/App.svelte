@@ -94,7 +94,7 @@
 		background-color: lightgray;
 		cursor: pointer;
 		display: inline-block;
-		margin-right: 10px;
+		margin-right: 17px;
 		padding: 10px;
 	}
 	li:hover {
