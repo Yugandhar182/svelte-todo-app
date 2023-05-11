@@ -104,7 +104,7 @@
   ul {
 		border: solid lightgray 1px;
 		display: flex; /* required for drag & drop to work when .item display is inline */
-		height: 40px; /* needed when empty */
+		height: 50px; /* needed when empty */
 		padding: 10px;
 	}
 </style>
